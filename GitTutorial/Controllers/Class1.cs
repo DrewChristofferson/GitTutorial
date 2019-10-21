@@ -6,6 +6,6 @@ using System.Web;
 namespace GitTutorial.Controllers
 {
     public class Class1
-    {
+    { 
     }
 }
